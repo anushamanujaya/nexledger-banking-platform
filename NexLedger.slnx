@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/NexLedger.Api/NexLedger.Api.csproj" />
+    <Project Path="src/NexLedger.Application/NexLedger.Application.csproj" />
+    <Project Path="src/NexLedger.Domain/NexLedger.Domain.csproj" />
+    <Project Path="src/NexLedger.Infrastructure/NexLedger.Infrastructure.csproj" />
+    <Project Path="src/NexLedger.Web/NexLedger.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/NexLedger.IntegrationTests/NexLedger.IntegrationTests.csproj" />
+    <Project Path="tests/NexLedger.UnitTests/NexLedger.UnitTests.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,6 @@
+@NexLedger.Api_HostAddress = http://localhost:5128
+
+GET {{NexLedger.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
